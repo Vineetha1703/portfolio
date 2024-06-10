@@ -1,6 +1,2 @@
 "# portfolio" 
-"# portfolio" 
-"# portfolio" 
-"# portfolio" 
-"# portfolio" 
-"# my-portfolio" 
+
